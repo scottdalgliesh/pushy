@@ -5,6 +5,10 @@ CAD files for "pushy", a 3D printed oversized-button for use with electronic pro
 ## Description
 A large 3D printed button housing for electronics projects. Intended for use with a cheap micro limit switch.
 
+## Images
+<img src="images/assembly.PNG" width=50%>
+<img src="images/exploded.PNG" width=50%>
+
 ## License
 [CC-BY](https://creativecommons.org/licenses/by-sa/4.0/)
 
