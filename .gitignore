@@ -1,0 +1,8 @@
+# local directories
+test prints/
+step/
+
+# SW temporary files
+cad/**/~*.SLDPRT
+cad/**/~*.SLDASM
+cad/**/~*.SLDDRW
